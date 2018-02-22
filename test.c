@@ -4,8 +4,5 @@
 
 #define e 4 forth changes added
 
-<<<<<<< HEAD
 #define e 4.55 forth changes MASTER
-=======
 #define e 4.5 -added in URGENT
->>>>>>> urgent_23
